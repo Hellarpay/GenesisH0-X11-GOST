@@ -7,7 +7,7 @@ A python script for creating the parameters required for a unique genesis block.
 
 To create geneses based on X11 algorithm you will also need to install the [xcoin-hash](https://github.com/lhartikk/xcoin-hash) module.
 
-To create geneses based on X11-GOST algorithm you will also need to install the [xcoin-hash](https://github.com/Hellarpay/x11_gost_hash) module.
+To create geneses based on X11-GOST algorithm you will also need to install the [x11_-gost-hash](https://github.com/Hellarpay/x11_gost_hash) module.
 
 For X13 you will need the [x13_hash](https://github.com/sherlockcoin/X13-PythonHash) module and for X15 the [x15_hash](https://github.com/minings/x15_hash) module.
     
@@ -70,4 +70,9 @@ Create the original genesis hash found in HiroCoin (requires [xcoin-hash](https:
          the value in coins for the output, full value (exp. in bitcoin 5000000000 - To get other coins value: Block Value * 100000000)
       -b BITS, --bits=BITS
          the target in compact representation, associated to a difficulty of 1
+    
+    
+    Say Thanks
+    1Jud81mmhGwdyvWG8YvoDn9auopCeLSeiD
+    
 
